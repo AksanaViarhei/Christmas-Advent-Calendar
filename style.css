@@ -1,0 +1,51 @@
+body {
+    background-color: #FFF0F5;
+}
+
+h1 {
+    text-align: center;
+    color: #C71585;
+}
+
+h2 {
+    color: #9932CC;
+    text-shadow: 3px 5px 6px #6C9, -3px -5px 6px #D9FFA7;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h4 {
+    color: #6495ED;
+    text-align: center;
+}
+
+h5 {
+    color: #C71585;
+    padding: 0px;
+    margin: 0px;
+}
+
+p {
+    padding-left: 20px;
+}
+
+a {
+    color: #4b2f89;
+}
+
+td {
+    width: 33%;
+    padding: 0px;
+    margin: 0px;
+    vertical-align: baseline;
+}
+
+ul li:before {
+    content: "🥂";
+    margin-right: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 5px;
+}
