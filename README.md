@@ -1,2 +1,2 @@
 # Christmas-Advent-Calendar
-html+css
+https://aksanaviarhei.github.io/Christmas-Advent-Calendar/index.html
